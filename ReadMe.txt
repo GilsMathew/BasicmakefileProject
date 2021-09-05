@@ -1,0 +1,1 @@
+Project with makefile building example in Linux environment
