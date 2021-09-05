@@ -1,1 +1,1 @@
-Project with makefile building example in Linux environment
+Basic makefile building example in Linux environment
